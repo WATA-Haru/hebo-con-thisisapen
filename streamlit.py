@@ -4,7 +4,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from PIL import Image
-import pyttsx3 # voice to read text
 
 # Imports the Google Cloud client library
 from google.cloud import vision

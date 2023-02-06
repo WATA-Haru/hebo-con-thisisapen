@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 streamlit = "*"
 pillow = "*"
-pyttsx3 = "*"
 ffmpeg = "*"
 
 [dev-packages]
