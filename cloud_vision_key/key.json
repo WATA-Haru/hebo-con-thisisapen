@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vision-api-hebocon",
+  "private_key_id": "e917f4d02ca6c8e4a66bf2ebfe49bfebb2def545",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCowdxEOFcziCzL\n1l6RX1ZIU5oziMJbdeGgBbAdEJVvP13jEVVPgr0K1kHX4BSC3IbgsIV3ILkxqsOq\nAYDtsHa7lkXRBdSBOdtjwx2T+WBaO+CeCj9rZaAQJl1K51r0MMTsuNyaAvnwgch/\nACKp4m86WwrY2emMKnfl/Xmo2dimMgexc6YGABTlX51eUlzracEKIcqu+VjZQGIK\nXA3yKp1xyv9d0RjRd/qy1WaiszBauXvKlmACTMsDjWCPZ94tETX6f3MwK5oRciLJ\nGHVfWS3c6PvLnIaVXmS8vkLSGwEI6tcHUUcaYzM+sCbhaO1nHmcEqhmphmvcGGk+\nyqO6qOMBAgMBAAECggEABHIa+eccEPz45SPQGPdQgBZHvSzQpfUsjPkpYxKhRS1/\nrTAzNaWFkmgDkwrRr4LcwMWVtoYzqsXLYsqoWVqpPhbe3vtO1lquV2n3+QJ8UdQ6\n/h7Z/dvPBC3mjkcbA8zXGz9hfGMwr2/T1tirkRsof/qPBhhziSBDSVlMn7ChfvtO\ndlDmCqfELJi7DY9rUFzSJ/sMkNZbFDxTlg0AcXEJnlggZx9f8ITf2vA80MAyslao\nx+PZdhYKUb8qn+wFq0av3AfYUBR7i6X1nSihB/TKbvkpWoUG95Spk753Zy43k5bg\nz8oOHNltH56TzxD9QVPhNnGY/XwRVRa0KBuRdDhdmwKBgQDa1Cie5R1OdCfYWMoI\n8cqi48H8QkbYEaUJm6IqO5t87pej/YMYceKYX+gf0Q2jP1dgVydgrMTrMxm/LV1w\nylbNNJn0skb6NRPkG8E7ipLWLew5ZC63uJ6XCbfWSAzr3KJ8h0KX3gACsvfEm4ks\n6PO16apWTxhANZphlwP5VW7zlwKBgQDFbFOmJbu6v6ugNLBOq2KxMiG+31OxQLBa\nYNlmNIXsyAnzeKezIwo+sOuunU2Ogpr0JnVlNbmim4TZfh4Pe3AHP6zzH2WbUaeH\nY69sKJPe33W0cGrYMA/GhZJgIukfp7rWgk0fpNe9QPV8DUMftrbhsTtOWcEolmYe\n9npLO6lRJwKBgDgOKOmrHzq9nodZF0f7SEE5vrNz9tnai0BO0dentUjnhYjIpBBa\n/AS0bK3Zy3iJ/UP8j2XAXCEz0eCbKlh+PIYMd3OrR2tItXO1eGZcNQkQcnaxJxaB\nAH8ISkNl6Ylx1122+GQWxkHqvnVqslUCx4tN9Ahv8nJgSM++85GnROi5AoGAWZdw\nWozzJauHyjs+62SRdBJpCAK3K1BM96bN4bjiMfMRuQC/Mecr5glJ20MdiBezFCtD\nyTtZU/a5ki3OnH4K9+8ooGhWJucmXKWbXT0I5fKIqur9QcCF2DSTmbceDjSC8IfP\nUhXvpb4N6U7ncEPtuHxCiqrmonGmRFTcaLnZe68CgYApwHmA74OlvTBlzFEb/e3J\nkKs6UbjMTmLirHZvC5lcihTwlYPVDEv/qvJdg+lPjUkLUoP0IrBFcbidJk6cqdXT\nb3DplSFxQnLTuBMuB67YUkXQOazZ8GI2ip9DK0CHDx6TzrMO7dXe/e6w7dAQsGi7\nzydw2s8eoCcw9HHUTa9JaQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hwata-vision-api@vision-api-hebocon.iam.gserviceaccount.com",
+  "client_id": "106145610605121378757",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hwata-vision-api%40vision-api-hebocon.iam.gserviceaccount.com"
+}
