@@ -60,14 +60,14 @@ if upload_file is not None:
             is_pen = True
     
     if is_pen:
-        audio_file = open('audio/this_is_a_pen.ogg', 'rb')
+        audio_file = open('audio/this_is_a_pen.wav', 'rb')
         audio_bytes = audio_file.read()
         st.write("# This is a Pen !!!!!")
-        st.audio(audio_bytes, format="audio/ogg")
+        st.audio(audio_bytes, format="audio/wav")
     else:
-        audio_file = open('audio/this_is_not_a_pen.ogg', 'rb')
+        audio_file = open('audio/this_is_not_a_pen.wav', 'rb')
         audio_bytes = audio_file.read()
         st.write("# This is NOT a Pen .....")
-        st.audio(audio_bytes, format="audio/ogg")
+        st.audio(audio_bytes, format="audio/wav")
 
 st.write("TA_watahiki")
