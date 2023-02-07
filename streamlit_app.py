@@ -46,17 +46,16 @@ if upload_file is not None:
     # Loads the image into memory
     with io.open(file_name, 'rb') as image_file:
         content = image_file.read()
-
     image = vision.Image(content=content)
 
     # Performs label detection on the image file
-    response = client.label_detection(image=image)
-    labels = response.label_annotations
-
+    objects = client.object_localization(image=image).localized_object_annotations
+    
+    # judge is pen or not
     is_pen = False
-    for label in labels:
+    for object_ in objects:
         # st.write(label.description)
-        if label.description == "Pen":
+        if object_.name== "Pen":
             is_pen = True
     
     if is_pen:
